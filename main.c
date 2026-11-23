@@ -3,7 +3,7 @@
 
 int main()
 {
-        printf("OSS Assigment 3\n");
+        printf("OSS Assignment 3\n");
         char c;
         int a;
         int b;
